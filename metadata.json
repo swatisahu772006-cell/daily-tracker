@@ -1,0 +1,7 @@
+{
+  "name": "DailyTracker",
+  "description": "A sophisticated daily task and routine tracker with AI-powered habit coaching and productivity insights using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
